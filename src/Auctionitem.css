@@ -1,0 +1,21 @@
+.auction-item {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    text-align: center;
+  }
+  
+  .auction-item img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .auction-item button {
+    background-color: #6a1b9a;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }

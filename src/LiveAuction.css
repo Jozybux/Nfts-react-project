@@ -1,0 +1,11 @@
+.live-auction {
+    padding: 20px;
+    background-color: #fff;
+    margin: 20px 0;
+  }
+  
+  .auction-items {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
